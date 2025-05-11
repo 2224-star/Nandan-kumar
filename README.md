@@ -1,3 +1,4 @@
+![logo](https://github.com/2224-star/Nandan-kumar/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner%20(1).png)
 [<h1 align="center">Hi 👋, I'm Nandan Kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding"width="400" src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&s>
